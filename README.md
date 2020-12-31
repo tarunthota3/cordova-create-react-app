@@ -4,10 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Pre-requisites
 
-[Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-
-[Gradle](https://gradle.org/install/)
-
+[Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) \
+[Gradle](https://gradle.org/install/) \
 [Android SDK](https://developer.android.com/studio/index.html)
 
 
