@@ -1,23 +1,26 @@
 {
-  "name": "com.example.hello",
+  "name": "cordova-create-react-app",
   "displayName": "HelloWorld",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A sample Apache Cordova application with react application that responds to the deviceready event.",
   "main": "index.js",
-  "homepage": "./",
+  "homepage": "https://github.com/tarunthota3/cordova-create-react-app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "android": "cordova run android",
-    "electron": "cordova run electron --nobuild"
+    "desktop": "cordova run electron --nobuild"
   },
   "keywords": [
     "ecosystem:cordova"
   ],
-  "author": "Apache Cordova Team",
-  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarunthota3/cordova-create-react-app.git"
+  },
+  "author": "Tarun Thota",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.2",
