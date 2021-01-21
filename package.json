@@ -16,6 +16,9 @@
   "keywords": [
     "ecosystem:cordova"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tarunthota3/cordova-create-react-app.git"
